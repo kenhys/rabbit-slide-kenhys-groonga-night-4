@@ -1,24 +1,106 @@
-= TODO: SLIDE TITLE
+= Groongaを支える\n取り組み
 
-TODO: SLIDE DESCRIPTION
+: author
+   HAYASHI Kentaro
+: institution
+   クリアコード
+: content-source
+   全文検索エンジンGroongaを囲む夕べ4
+: date
+   2013/11/29
+: allotted-time
+  10m
+: theme
+  .
 
-== For author
+= 今日の内容
 
-=== Show
+  * 昨年からの歩み
+  * 広がるGroongaの輪
+  * 事例やノウハウを紹介する取り組み
+  * 相互扶助の取り組み
+  * 皆さんに質問
 
-  rake
+= 昨年からの歩み
 
-=== Publish
+  * Groongaのメジャーバージョンアップ
+    * 2.x -> 3.x系
 
-  rake publish
+  * 先頭大文字!
 
-== For viewers
+    * groongaからGroongaへ
+    * mroongaからMroongaへ
+    * rroongaからRroongaへ
 
-=== Install
+= 広がるGroongaの輪
 
-  gem install rabbit-slide-kenhys-groonga-night-4
 
-=== Show
 
-  rabbit rabbit-slide-kenhys-groonga-night-4.gem
+= 事例やノウハウを紹介する取り組み
 
+  * 週刊Groonga
+  * 隔週連載Groonga
+
+= 週刊Groonga
+
+  * Qiitaで毎週木曜掲載
+  * http://qiita.com/groonga
+
+= 隔週連載Groonga
+
+  * gihyo.jpさんで約半年連載しました
+  * http://gihyo.jp/dev/clip/01/groonga
+
+= 相互扶助の取り組み
+
+  * twitter (('del:ネットストーキング')) (@groonga)
+  * メーリングリスト(groonga-dev,groonga-talk)
+
+= 世界進出
+
+  * MariaDB 10.xへのバンドル
+    * 10.0.7でもしかしたら。。。
+
+= 皆さんに質問
+
+  * 会場内にFedora *で* お使いのかたはいますか?
+
+= CIの強化
+
+  * Travis-CIは導入済み
+  * buildbotの導入
+    * パッケージのチェックできたらいいかも。。。
+
+= こんな人募集
+
+  * (('del:GroongaのAPIドキュメント化'))
+  * 週刊Groongaの翻訳
+  * Groonga表記の統一
+  * Groonga Advent Calendar
+
+= APIドキュメント化
+    
+  * Groongaのヘッダ日本語の説明をAPIドキュメントに
+    * @whombxさんが手伝ってくれました！
+  * まだまだundocumentedな部分が。。。
+
+= 週刊Groongaの翻訳
+    
+  * 記事を翻訳して海外展開？
+    * blogroongaに英語版を用意して情報発信
+    * 手伝ってくれる人募集してます！
+
+= groongaからGroongaへ
+    
+  * ドキュメントの表記を統一するお仕事です
+    * 手伝ってくれる人募集してます！
+
+= Groonga Advent Calendar 2013
+
+* 年末の風物詩？に参戦
+  * 参加登録者募集しています！
+  * http://qiita.com/advent-calendar/2013/groonga
+
+= Groongaを支える\n取り組み
+
+Groongaプロジェクトに\n名前を残しませんか？
