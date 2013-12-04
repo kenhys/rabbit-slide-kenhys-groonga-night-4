@@ -1,7 +1,7 @@
-= Groongaを支える\n取り組み
+= Groongaを支える取り組み
 
 : author
-   HAYASHI Kentaro
+   林健太郎
 : institution
    クリアコード
 : content-source
@@ -13,30 +13,42 @@
 : theme
   .
 
-= 今日の内容
+= 発表の内容
 
   * 昨年からの歩み
-  * 広がるGroongaの輪
-  * 事例やノウハウを紹介する取り組み
-  * 相互扶助の取り組み
-  * 皆さんに質問
+  * 事例やノウハウの話
+  * 困ったときに
+  * こんな人を募集
 
 = 昨年からの歩み
 
-  * Groongaのメジャーバージョンアップ
-    * 2.x -> 3.x系
+  * メジャーバージョンアップ
+    * 2.x -> 3.x系 (1.x系は削除)
+  * groongaからGroongaへ
+  * Droonga 0.7.0 リリース!
+  * 貢献してくれる人の増加
 
-  * 先頭大文字!
+= 昨年からの歩み
 
-    * groongaからGroongaへ
-    * mroongaからMroongaへ
-    * rroongaからRroongaへ
+  * Fedoraでリリース!
+    * groonga
+    * groonga-normalizer-mysql
+    * mroongaはまだ。。。
 
-= 広がるGroongaの輪
+= 先頭大文字！
 
+  * 「g」roongaから「G」roongaへ
+  * ぐ が大きい
 
+= ステッカー配布してます
 
-= 事例やノウハウを紹介する取り組み
+  * Droongaは今回初!
+
+  # image
+  # src = droonga-sticker-black.png
+  # relative_height = 60
+
+= 事例やノウハウの話
 
   * 週刊Groonga
   * 隔週連載Groonga
@@ -44,41 +56,52 @@
 = 週刊Groonga
 
   * Qiitaで毎週木曜掲載
+    * 小ネタ記事を書いてます
+    * Groonga,Mroonga,ときどきRroonga
   * http://qiita.com/groonga
+    * @groongaで投稿を告知
+
+= 週刊Groongaの人気記事
+
+  * Mroonga大人気
+    * リポジトリ選択の話
+    * MroongaのWindows版を使う
+    * Mroongaでカラムごとに重みづけ
+    * MariaDB + Mroonga on Debian
+    * MroongaでGroongaの前方一致検索
 
 = 隔週連載Groonga
 
-  * gihyo.jpさんで約半年連載しました
-  * http://gihyo.jp/dev/clip/01/groonga
+  * gihyo.jpさんで約半年連載しました(全11回)
+    * http://gihyo.jp/dev/clip/01/groonga
+    * ユーザー事例(地価マップ/Tritonnからの移行/Milkode)
+    * 事例に対する補足解説
 
-= 相互扶助の取り組み
+= 困ったときに(1)
 
-  * twitter (('del:ネットストーキング')) (@groonga)
+  * Twitter (('del:でネットストーキング')) (@groonga)
+    * 厳しい意見をいただくことも。。。
+
+  # image
+  # src = twitter-yappo-about-drilldown.png
+
+= 困ったときに(2)
+
   * メーリングリスト(groonga-dev,groonga-talk)
+    * 流量も増加傾向に
 
-= 世界進出
-
-  * MariaDB 10.xへのバンドル
-    * 10.0.7でもしかしたら。。。
-
-= 皆さんに質問
-
-  * 会場内にFedora *で* お使いのかたはいますか?
-
-= CIの強化
-
-  * Travis-CIは導入済み
-  * buildbotの導入
-    * パッケージのチェックできたらいいかも。。。
+  # image
+  # src = groonga-dev-summary.png
+  # caption: groonga-devの一ヶ月のメール数
 
 = こんな人募集
 
   * (('del:GroongaのAPIドキュメント化'))
   * 週刊Groongaの翻訳
   * Groonga表記の統一
-  * Groonga Advent Calendar
+  * Groonga Advent Calendar 2013
 
-= APIドキュメント化
+= (('del:APIドキュメント化'))
     
   * Groongaのヘッダ日本語の説明をAPIドキュメントに
     * @whombxさんが手伝ってくれました！
@@ -89,18 +112,48 @@
   * 記事を翻訳して海外展開？
     * blogroongaに英語版を用意して情報発信
     * 手伝ってくれる人募集してます！
+      * http://groonga.org/ja/blog/2013/07/22/qiita-translation.html
+
+= コマンドのドキュメント
+
+  * フォーマットの新旧混在を統一したい
+    * 手伝ってくれる人募集してます！
+      * http://groonga.org/ja/blog/2013/08/12/reference-command-documentation.html
 
 = groongaからGroongaへ
     
-  * ドキュメントの表記を統一するお仕事です
+  * ドキュメントの表記を統一が不完全
     * 手伝ってくれる人募集してます！
+      * http://groonga.org/ja/blog/2013/10/30/use-capitalized-notation.html
+      * http://mroonga.org/ja/blog/2013/10/30/use-capitalized-notation.html
 
 = Groonga Advent Calendar 2013
 
-* 年末の風物詩？に参戦
-  * 参加登録者募集しています！
-  * http://qiita.com/advent-calendar/2013/groonga
+  * 年末の風物詩？に参戦
+    * 参加登録者募集しています！
+      * http://qiita.com/advent-calendar/2013/groonga
+
+  # image
+  # src = groonga-advent-calendar-2013.png
+
+= Groonga本？
+
+* 本を書きたい人はいませんか？
+  * 技術的な面をバックアップします！
+  * 出版社を紹介できます！
 
 = Groongaを支える\n取り組み
 
-Groongaプロジェクトに\n名前を残しませんか？
+* Groongaプロジェクトに\n名前を残しませんか？
+  * バグ報告
+  * パッチ提供
+  * 一緒に作業しませんか？(詳細はWebで！)
+      * http://groonga.org/ja/
+      * http://mroonga.org/ja/
+
+= 感謝
+
+* DeNAさんありがとうございます！
+  * 会場提供
+  * 受付事務
+  * 懇親会飲食物提供
