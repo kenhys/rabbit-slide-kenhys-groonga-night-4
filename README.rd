@@ -1,6 +1,9 @@
-= TODO: SLIDE TITLE
+= Groongaを支える取り組み
 
-TODO: SLIDE DESCRIPTION
+Groongaの開発周辺のトピックについて、
+昨年からの変化やちょっとしたノウハウの参照先の紹介に加え、
+Groongaプロジェクトで協力者を募集している内容を紹介しています。
+特にGroonga Advent Calender 2013参加者を募集しています!
 
 == For author
 
