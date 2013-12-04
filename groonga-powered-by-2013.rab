@@ -84,6 +84,7 @@
 
   # image
   # src = twitter-yappo-about-drilldown.png
+  # relative_height = 80
 
 = 困ったときに(2)
 
@@ -92,6 +93,7 @@
 
   # image
   # src = groonga-dev-summary.png
+  # relative_height = 100
   # caption: groonga-devの一ヶ月のメール数
 
 = こんな人募集
@@ -135,6 +137,7 @@
 
   # image
   # src = groonga-advent-calendar-2013.png
+  # relative_height = 120
 
 = Groonga本？
 
